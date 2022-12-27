@@ -5,4 +5,4 @@
 <hr>
 
 <h1 align=center>Screenshots</h1>
-<img src="https://cdn.discordapp.com/attachments/1008716241420173362/1057264798078877696/Web-Showcase-Project-Presentation_copy.png">
+<img src="https://user-images.githubusercontent.com/77274581/209663174-72b6f761-e42f-405a-a801-8035597e9a8e.png">
